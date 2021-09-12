@@ -27,7 +27,8 @@
   "author": "Moises Gonzalez <moigonzit@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "quagga": "^0.12.1",
+    "@ericblade/barcode-validator": "^2.4.1",
+    "@ericblade/quagga2": "^1.4.2",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-feather": "^1.1.5",
